@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Panangipalli Shanmukha GuruDath - The Frontend  👋
+*Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
+*Frontend Developer*: HTML5, CSS3, KOTLIN, JS
+🔭 Current project: **
+✅ I write tests with pytest and use GitHub Actions (CI)
+🌱 Learning: caching, async, system design basics
+🌐 LinkedIn/ Gmail : /Panangipalli Shanmukha GuruDath  / • 📫 gurudath2007@gmail.com
 
-<!--
-**SHANMUKHAGURUDATH/SHANMUKHAGURUDATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech
+C, C++, HTML5, CSS3, Python3, JS, Kotlin, LaTeX  GitHub Actions
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects (Pinned below)
+1. Portfolio Website
+2. Built games using python3 with tkinter library.
+3. Cloned Various Websites
