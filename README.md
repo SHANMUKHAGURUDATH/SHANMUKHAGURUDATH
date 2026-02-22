@@ -1,4 +1,4 @@
-Hi, I'm Panangipalli Shanmukha GuruDath 👋
+**Hi, I'm Panangipalli Shanmukha GuruDath 👋**
 
 *Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
