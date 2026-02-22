@@ -10,7 +10,7 @@ Hi, I'm Panangipalli Shanmukha GuruDath 👋
 🌐 LinkedIn/ Gmail : /Panangipalli Shanmukha GuruDath  / • 📫 gurudath2007@gmail.com
 
 Skills:-
-C, C++, HTML5, CSS3, Python3, JS, Kotlin, LaTeX  GitHub Actions
+C, C++, HTML5, CSS3, Python3, JS, Kotlin, LaTeX, GitHub Actions
 
 Projects (Pinned below)
 1. Portfolio Website
