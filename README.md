@@ -9,7 +9,7 @@ Hi, I'm Panangipalli Shanmukha GuruDath 👋
 🌱 Learning: caching, async, system design basics
 🌐 LinkedIn/ Gmail : /Panangipalli Shanmukha GuruDath  / • 📫 gurudath2007@gmail.com
 
-Tech
+Skills:-
 C, C++, HTML5, CSS3, Python3, JS, Kotlin, LaTeX  GitHub Actions
 
 Projects (Pinned below)
