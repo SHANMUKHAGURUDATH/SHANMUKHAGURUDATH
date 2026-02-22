@@ -1,4 +1,4 @@
-**Hi, I'm Panangipalli Shanmukha GuruDath 👋**
+# **Hi, I'm Panangipalli Shanmukha GuruDath 👋**
 
 *Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
@@ -10,10 +10,10 @@
 
 🌐 LinkedIn/ Gmail : /Panangipalli Shanmukha GuruDath  / • 📫 gurudath2007@gmail.com
 
-Skills:-
+## Skills:-
 C, C++, HTML5, CSS3, Python3, JS, Kotlin, LaTeX, GitHub Actions
 
-Projects (Pinned below)
+## Projects (Pinned below)
 1. Portfolio Website
 2. Built games using python3 with tkinter library.
 3. Cloned Various Websites
