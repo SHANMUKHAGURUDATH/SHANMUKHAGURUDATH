@@ -1,6 +1,8 @@
 Hi, I'm Panangipalli Shanmukha GuruDath 👋
+
 *Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 *Frontend Developer*: HTML5, CSS3, KOTLIN, JS
+
 🔭 Current project: **
 ✅ I write tests with pytest and use GitHub Actions (CI)
 🌱 Learning: caching, async, system design basics
